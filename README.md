@@ -6,4 +6,6 @@ Install my-project with npm
 
 npm install yoga-website
 
-cd my-yoga-website npm start
+cd my-yoga-website
+
+ npm start
