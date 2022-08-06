@@ -4,8 +4,8 @@ This is a website to get online taxi.This website is fully developed in react js
 # Installation
 Install my-project with npm
 
-npm install yoga-website
+npm install project-name
 
-cd my-yoga-website
+cd project-name
 
  npm start
